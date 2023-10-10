@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="resume" content="width=device-width, initial-scale=1">
+    <title>Kanoko-on Phuakseekaew</title>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row"><img src="file:///D:/New%20folder/heading%201.jpeg" class="rounded mx-auto d-block"
+
+          style="width: 1290px; height: 420px;" alt="heading"></div>
+      <div class="row">
+        <div class="col-6 col-sm-4">
+          <h3>Profile</h3>
+          <div><img alt="photo-1" src="photo-1.jpeg" style="width: 300px; height: 400px;"></div>
+        </div>
+        <div class="col-6 col-sm-4">
+          <p>Name : Kanok-on Phuakseekaew </p>
+          <p>Nickname : Creamcheese</p>
+          <p> Age : 21 years old </p>
+          <p>Address : 441 Ploklang ,Meung ,Nakhon Ratchasima 30000</p>
+          <p>Phone Number : 064-565-7864</p>
+          <p>Email : ckreal47256@gmail.com</p>
+        </div>
+        <div class="row">
+          
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>
